@@ -13,6 +13,7 @@ Workflow:
     * health effects of wildfires - Benthan
         * System Dashboard of Evidence - https://github.com/healthinclimateai/datasets/tree/main/system 
         *  CDC Environmental Public Health Tracking (Air Quality) - https://ephtracking.cdc.gov/DataExplorer/
+        *  Systems (Provided by mentor) https://docs.google.com/spreadsheets/d/17jGTpE2QJOuJmqHKvDBXeNny_WquRQJmQHWwYk8EBD0/edit?usp=sharing
     * different regions/counties’ health preparedness/disease prevalence
         * https://gis.data.ca.gov/datasets/CADHCS::mcna-population-points-with-t-d-standards/about
 2. Score Calculation
