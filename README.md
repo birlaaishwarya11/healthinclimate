@@ -8,6 +8,7 @@ Workflow:
         * https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html
     * geographic risk
         * ArcGIS Living Atlas - https://livingatlas.arcgis.com/en/browse/#d=2
+        * Wildfire Risk Index https://hazards.fema.gov/nri/wildfire
     * population density
     * health effects of wildfires - Benthan
         * System Dashboard of Evidence - https://github.com/healthinclimateai/datasets/tree/main/system 
