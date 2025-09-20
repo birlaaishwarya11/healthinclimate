@@ -1,0 +1,1063 @@
+Year,County,Birth Type,Total Births,Events,Percent,Lower 95% CI,Upper 95% CI
+2010,Mariposa,Preterm Births,145,,,,
+2012,Tehama,Very Preterm Births,767,,,,
+2013,Glenn,Very Preterm Births,398,,,,
+2013,Mendocino,Very Preterm Births,1005,,,,
+2013,Mono,Preterm Births,150,,,,
+2013,Yuba,Very Preterm Births,1199,,,,
+2014,Calaveras,Very Preterm Births,347,,,,
+2015,Tehama,Very Preterm Births,828,,,,
+2018,Nevada,Very Preterm Births,770,,,,
+2010,Mono,Preterm Births,151,11,7.3,4.1,12.6
+2011,Mariposa,Preterm Births,131,11,8.4,4.8,14.4
+2011,San Benito,Very Preterm Births,763,11,1.4,0.8,2.6
+2011,Sutter,Very Preterm Births,1326,11,0.8,0.5,1.5
+2012,Napa,Very Preterm Births,1388,11,0.8,0.4,1.4
+2015,Plumas,Preterm Births,162,11,6.8,3.8,11.7
+2015,Siskiyou,Very Preterm Births,466,11,2.4,1.3,4.2
+2018,Modoc,Preterm Births,105,11,10.5,6,17.8
+2018,Plumas,Preterm Births,163,11,6.7,3.8,11.7
+2018,Siskiyou,Very Preterm Births,436,11,2.5,1.4,4.5
+2010,Humboldt,Very Preterm Births,1542,12,0.8,0.4,1.4
+2010,Plumas,Preterm Births,165,12,7.3,4.2,12.3
+2012,Mendocino,Very Preterm Births,1145,12,1,0.6,1.8
+2013,El Dorado,Very Preterm Births,1529,12,0.8,0.4,1.4
+2013,San Benito,Very Preterm Births,751,12,1.6,0.9,2.8
+2013,Trinity,Preterm Births,99,12,12.1,7.1,20
+2014,El Dorado,Very Preterm Births,1616,12,0.7,0.4,1.3
+2014,Lake,Very Preterm Births,741,12,1.6,0.9,2.8
+2015,Napa,Very Preterm Births,1443,12,0.8,0.5,1.4
+2018,Mariposa,Preterm Births,155,12,7.7,4.5,13
+2018,Trinity,Preterm Births,112,12,10.7,6.2,17.8
+2010,Tehama,Very Preterm Births,766,13,1.7,1,2.9
+2010,Yuba,Very Preterm Births,1222,13,1.1,0.6,1.8
+2011,Lake,Very Preterm Births,695,13,1.9,1.1,3.2
+2012,Plumas,Preterm Births,150,13,8.7,5.1,14.3
+2014,Mendocino,Very Preterm Births,1014,13,1.3,0.8,2.2
+2015,Mendocino,Very Preterm Births,1051,13,1.2,0.7,2.1
+2016,Humboldt,Very Preterm Births,1488,13,0.9,0.5,1.5
+2016,Mariposa,Preterm Births,148,13,8.8,5.2,14.4
+2017,Mariposa,Preterm Births,141,13,9.2,5.5,15.1
+2018,Napa,Very Preterm Births,1200,13,1.1,0.6,1.8
+2010,Marin,Very Preterm Births,2366,14,0.6,0.4,1
+2010,Mendocino,Very Preterm Births,1050,14,1.3,0.8,2.2
+2010,San Benito,Very Preterm Births,734,14,1.9,1.1,3.2
+2013,Plumas,Preterm Births,150,14,9.3,5.6,15.1
+2014,Yuba,Very Preterm Births,1189,14,1.2,0.7,2
+2016,Yuba,Very Preterm Births,1237,14,1.1,0.7,1.9
+2011,El Dorado,Very Preterm Births,1629,15,0.9,0.6,1.5
+2011,Plumas,Preterm Births,164,15,9.1,5.6,14.5
+2012,Mariposa,Preterm Births,159,15,9.4,5.8,15
+2015,Inyo,Preterm Births,203,15,7.4,4.5,11.8
+2016,Plumas,Preterm Births,168,15,8.9,5.5,14.2
+2017,Plumas,Preterm Births,172,15,8.7,5.4,13.9
+2017,Yuba,Very Preterm Births,1182,15,1.3,0.8,2.1
+2018,Lake,Very Preterm Births,715,15,2.1,1.3,3.4
+2018,Shasta,Very Preterm Births,1958,15,0.8,0.5,1.3
+2010,Shasta,Very Preterm Births,2133,16,0.8,0.5,1.2
+2010,Sutter,Very Preterm Births,1357,16,1.2,0.7,1.9
+2011,Napa,Very Preterm Births,1524,16,1,0.6,1.7
+2012,Humboldt,Very Preterm Births,1503,16,1.1,0.7,1.7
+2012,Marin,Very Preterm Births,2306,16,0.7,0.4,1.1
+2012,Yuba,Very Preterm Births,1211,16,1.3,0.8,2.1
+2013,Sutter,Very Preterm Births,1283,16,1.2,0.8,2
+2017,Humboldt,Very Preterm Births,1368,16,1.2,0.7,1.9
+2017,Marin,Very Preterm Births,2237,16,0.7,0.4,1.2
+2012,El Dorado,Very Preterm Births,1512,17,1.1,0.7,1.8
+2013,Calaveras,Preterm Births,336,17,5.1,3.2,8
+2014,Sutter,Very Preterm Births,1315,17,1.3,0.8,2.1
+2016,Inyo,Preterm Births,181,17,9.4,5.9,14.5
+2017,Mono,Preterm Births,147,17,11.6,7.3,17.7
+2018,Humboldt,Very Preterm Births,1362,17,1.2,0.8,2
+2018,Sutter,Very Preterm Births,1267,17,1.3,0.8,2.1
+2018,Yuba,Very Preterm Births,1096,17,1.6,1,2.5
+2011,Calaveras,Preterm Births,325,18,5.5,3.5,8.6
+2012,Inyo,Preterm Births,218,18,8.3,5.3,12.7
+2013,Napa,Very Preterm Births,1416,18,1.3,0.8,2
+2016,Mendocino,Very Preterm Births,1023,18,1.8,1.1,2.8
+2017,El Dorado,Very Preterm Births,1567,18,1.1,0.7,1.8
+2017,Mendocino,Very Preterm Births,988,18,1.8,1.2,2.9
+2017,Sutter,Very Preterm Births,1262,18,1.4,0.9,2.2
+2011,Butte,Very Preterm Births,2383,19,0.8,0.5,1.2
+2012,Sutter,Very Preterm Births,1258,19,1.5,1,2.3
+2013,Inyo,Preterm Births,229,19,8.3,5.4,12.6
+2014,Humboldt,Very Preterm Births,1467,19,1.3,0.8,2
+2015,Mariposa,Preterm Births,165,19,11.5,7.5,17.3
+2015,Sutter,Very Preterm Births,1302,19,1.5,0.9,2.3
+2017,Del Norte,Preterm Births,269,19,7.1,4.6,10.8
+2018,Del Norte,Preterm Births,283,19,6.7,4.3,10.2
+2010,Inyo,Preterm Births,189,20,10.6,7,15.8
+2011,Marin,Very Preterm Births,2384,20,0.8,0.5,1.3
+2012,Lassen,Preterm Births,298,20,6.7,4.4,10.1
+2012,Shasta,Very Preterm Births,2097,20,1,0.6,1.5
+2014,Napa,Very Preterm Births,1464,20,1.4,0.9,2.1
+2017,Napa,Very Preterm Births,1289,20,1.6,1,2.4
+2018,Marin,Very Preterm Births,2126,20,0.9,0.6,1.4
+2018,Yolo,Very Preterm Births,2129,20,0.9,0.6,1.4
+2010,El Dorado,Very Preterm Births,1617,21,1.3,0.9,2
+2010,Napa,Very Preterm Births,1483,21,1.4,0.9,2.2
+2012,Yolo,Very Preterm Births,2443,21,0.9,0.6,1.3
+2013,Humboldt,Very Preterm Births,1519,21,1.4,0.9,2.1
+2013,Lassen,Preterm Births,291,21,7.2,4.8,10.8
+2016,El Dorado,Very Preterm Births,1599,21,1.3,0.9,2
+2017,Colusa,Preterm Births,293,21,7.2,4.7,10.7
+2010,Lassen,Preterm Births,319,22,6.9,4.6,10.2
+2012,Glenn,Preterm Births,368,22,6,4,8.9
+2016,Amador,Preterm Births,307,22,7.2,4.8,10.6
+2016,Santa Cruz,Very Preterm Births,2795,22,0.8,0.5,1.2
+2017,Amador,Preterm Births,302,22,7.3,4.9,10.8
+2017,Lassen,Preterm Births,301,22,7.3,4.9,10.8
+2017,San Luis Obispo,Very Preterm Births,2548,22,0.9,0.6,1.3
+2018,Amador,Preterm Births,305,22,7.2,4.8,10.7
+2018,Butte,Very Preterm Births,2412,22,0.9,0.6,1.4
+2018,El Dorado,Very Preterm Births,1668,22,1.3,0.9,2
+2018,Inyo,Preterm Births,172,22,12.8,8.6,18.6
+2018,Santa Cruz,Very Preterm Births,2443,22,0.9,0.6,1.4
+2012,Amador,Preterm Births,284,23,8.1,5.5,11.9
+2012,Calaveras,Preterm Births,345,23,6.7,4.5,9.8
+2013,Amador,Preterm Births,260,23,8.8,6,12.9
+2014,Shasta,Very Preterm Births,2077,23,1.1,0.7,1.7
+2015,El Dorado,Very Preterm Births,1594,23,1.4,1,2.2
+2016,Calaveras,Preterm Births,373,23,6.2,4.1,9.1
+2017,Madera,Very Preterm Births,2120,23,1.1,0.7,1.6
+2018,Madera,Very Preterm Births,2072,23,1.1,0.7,1.7
+2010,Colusa,Preterm Births,338,24,7.1,4.8,10.3
+2011,Amador,Preterm Births,269,24,8.9,6.1,12.9
+2011,Tuolumne,Preterm Births,429,24,5.6,3.8,8.2
+2012,Butte,Very Preterm Births,2393,24,1,0.7,1.5
+2012,Del Norte,Preterm Births,302,24,7.9,5.4,11.6
+2013,Marin,Very Preterm Births,2317,24,1,0.7,1.5
+2013,Shasta,Very Preterm Births,2131,24,1.1,0.8,1.7
+2014,Del Norte,Preterm Births,324,24,7.4,5,10.8
+2014,Madera,Very Preterm Births,2302,24,1,0.7,1.5
+2015,Butte,Very Preterm Births,2436,24,1,0.7,1.5
+2015,Del Norte,Preterm Births,298,24,8.1,5.5,11.7
+2015,Humboldt,Very Preterm Births,1443,24,1.7,1.1,2.5
+2016,Marin,Very Preterm Births,2253,24,1.1,0.7,1.6
+2017,Butte,Very Preterm Births,2382,24,1,0.7,1.5
+2018,San Luis Obispo,Very Preterm Births,2431,24,1,0.7,1.5
+2010,Amador,Preterm Births,272,25,9.2,6.3,13.2
+2011,Inyo,Preterm Births,213,25,11.7,8.1,16.8
+2012,San Luis Obispo,Very Preterm Births,2577,25,1,0.7,1.4
+2014,Amador,Preterm Births,289,25,8.7,5.9,12.5
+2014,Butte,Very Preterm Births,2475,25,1,0.7,1.5
+2014,Colusa,Preterm Births,285,25,8.8,6,12.6
+2015,Shasta,Very Preterm Births,2066,25,1.2,0.8,1.8
+2016,Lassen,Preterm Births,305,25,8.2,5.6,11.8
+2016,Sutter,Very Preterm Births,1367,25,1.8,1.2,2.7
+2018,Placer,Very Preterm Births,3655,25,0.7,0.5,1
+2011,Lassen,Preterm Births,299,26,8.7,6,12.4
+2014,Inyo,Preterm Births,225,26,11.6,8,16.4
+2015,Calaveras,Preterm Births,379,26,6.9,4.7,9.9
+2015,Glenn,Preterm Births,376,26,6.9,4.8,9.9
+2016,Del Norte,Preterm Births,307,26,8.5,5.8,12.1
+2016,Shasta,Very Preterm Births,2043,26,1.3,0.9,1.9
+2018,Colusa,Preterm Births,267,26,9.7,6.7,13.9
+2010,Del Norte,Preterm Births,370,27,7.3,5.1,10.4
+2011,Shasta,Very Preterm Births,2013,27,1.3,0.9,1.9
+2012,Imperial,Very Preterm Births,2898,27,0.9,0.6,1.4
+2012,Madera,Very Preterm Births,2249,27,1.2,0.8,1.7
+2013,Butte,Very Preterm Births,2408,27,1.1,0.8,1.6
+2013,San Luis Obispo,Very Preterm Births,2644,27,1,0.7,1.5
+2011,Del Norte,Preterm Births,337,28,8.3,5.8,11.7
+2013,Madera,Very Preterm Births,2310,28,1.2,0.8,1.7
+2014,Kings,Very Preterm Births,2339,28,1.2,0.8,1.7
+2015,Amador,Preterm Births,303,28,9.2,6.5,13
+2015,Marin,Very Preterm Births,2287,28,1.2,0.8,1.8
+2017,Inyo,Preterm Births,210,28,13.3,9.4,18.6
+2018,Imperial,Very Preterm Births,2594,28,1.1,0.7,1.6
+2010,Calaveras,Preterm Births,346,29,8.4,5.9,11.8
+2011,Colusa,Preterm Births,302,29,9.6,6.8,13.5
+2014,Calaveras,Preterm Births,347,29,8.4,5.9,11.7
+2015,Madera,Very Preterm Births,2221,29,1.3,0.9,1.9
+2016,Butte,Very Preterm Births,2484,29,1.2,0.8,1.7
+2016,Glenn,Preterm Births,379,29,7.7,5.4,10.8
+2016,Yolo,Very Preterm Births,2419,29,1.2,0.8,1.7
+2017,Shasta,Very Preterm Births,2005,29,1.4,1,2.1
+2017,Yolo,Very Preterm Births,2270,29,1.3,0.9,1.8
+2010,Tuolumne,Preterm Births,486,30,6.2,4.4,8.7
+2011,Yolo,Very Preterm Births,2330,30,1.3,0.9,1.8
+2012,Tuolumne,Preterm Births,459,30,6.5,4.6,9.2
+2013,Yolo,Very Preterm Births,2486,30,1.2,0.8,1.7
+2014,Lassen,Preterm Births,322,30,9.3,6.6,13
+2015,San Luis Obispo,Very Preterm Births,2663,30,1.1,0.8,1.6
+2016,Colusa,Preterm Births,316,30,9.5,6.7,13.2
+2018,Calaveras,Preterm Births,376,30,8,5.6,11.2
+2010,Butte,Very Preterm Births,2447,31,1.3,0.9,1.8
+2013,Tuolumne,Preterm Births,474,31,6.5,4.6,9.1
+2014,Glenn,Preterm Births,416,31,7.5,5.3,10.4
+2014,Marin,Very Preterm Births,2403,31,1.3,0.9,1.8
+2015,Lassen,Preterm Births,292,31,10.6,7.6,14.7
+2016,San Luis Obispo,Very Preterm Births,2579,31,1.2,0.8,1.7
+2017,Kings,Very Preterm Births,2374,31,1.3,0.9,1.8
+2017,Tuolumne,Preterm Births,470,31,6.6,4.7,9.2
+2010,San Luis Obispo,Very Preterm Births,2725,32,1.2,0.8,1.7
+2013,Del Norte,Preterm Births,314,32,10.2,7.3,14
+2013,Kings,Very Preterm Births,2391,32,1.3,0.9,1.9
+2014,Imperial,Very Preterm Births,3167,32,1,0.7,1.4
+2014,San Luis Obispo,Very Preterm Births,2591,32,1.2,0.9,1.7
+2015,Imperial,Very Preterm Births,3111,32,1,0.7,1.4
+2015,Yolo,Very Preterm Births,2398,32,1.3,0.9,1.9
+2017,Glenn,Preterm Births,377,32,8.5,6.1,11.7
+2012,Colusa,Preterm Births,314,33,10.5,7.6,14.4
+2013,Imperial,Very Preterm Births,2933,33,1.1,0.8,1.6
+2015,Kings,Very Preterm Births,2274,33,1.5,1,2
+2016,Imperial,Very Preterm Births,2932,33,1.1,0.8,1.6
+2016,Placer,Very Preterm Births,3727,33,0.9,0.6,1.2
+2018,Lassen,Preterm Births,309,33,10.7,7.7,14.6
+2010,Glenn,Preterm Births,434,34,7.8,5.7,10.7
+2010,Siskiyou,Preterm Births,433,34,7.9,5.7,10.8
+2010,Yolo,Very Preterm Births,2421,34,1.4,1,2
+2011,Glenn,Preterm Births,388,34,8.8,6.3,12
+2011,Santa Cruz,Very Preterm Births,3229,34,1.1,0.8,1.5
+2012,Placer,Very Preterm Births,3644,34,0.9,0.7,1.3
+2014,Yolo,Very Preterm Births,2389,34,1.4,1,2
+2017,Imperial,Very Preterm Births,2865,34,1.2,0.9,1.7
+2010,Madera,Very Preterm Births,2428,35,1.4,1,2
+2011,Kings,Very Preterm Births,2562,35,1.4,1,1.9
+2011,Madera,Very Preterm Births,2400,35,1.5,1.1,2
+2013,Colusa,Preterm Births,313,35,11.2,8.2,15.2
+2012,Kings,Very Preterm Births,2354,36,1.5,1.1,2.1
+2015,Merced,Very Preterm Births,4103,36,0.9,0.6,1.2
+2016,Merced,Very Preterm Births,4116,36,0.9,0.6,1.2
+2012,Santa Cruz,Very Preterm Births,3071,37,1.2,0.9,1.7
+2013,Siskiyou,Preterm Births,443,37,8.4,6.1,11.3
+2017,Santa Cruz,Very Preterm Births,2658,37,1.4,1,1.9
+2010,Kings,Very Preterm Births,2504,38,1.5,1.1,2.1
+2011,Imperial,Very Preterm Births,3037,38,1.3,0.9,1.7
+2013,Santa Cruz,Very Preterm Births,2857,38,1.3,1,1.8
+2015,Colusa,Preterm Births,298,38,12.8,9.4,17
+2015,Siskiyou,Preterm Births,466,38,8.2,6,11
+2016,Madera,Very Preterm Births,2353,38,1.6,1.2,2.2
+2018,Glenn,Preterm Births,364,38,10.4,7.7,14
+2018,Kings,Very Preterm Births,2256,38,1.7,1.2,2.3
+2014,Placer,Very Preterm Births,3636,39,1.1,0.8,1.5
+2010,Nevada,Preterm Births,785,40,5.1,3.8,6.9
+2013,Placer,Very Preterm Births,3679,40,1.1,0.8,1.5
+2014,Santa Cruz,Very Preterm Births,3041,40,1.3,1,1.8
+2014,Siskiyou,Preterm Births,451,40,8.9,6.6,11.9
+2014,Tuolumne,Preterm Births,454,40,8.8,6.5,11.8
+2016,Kings,Very Preterm Births,2243,40,1.8,1.3,2.4
+2010,Placer,Very Preterm Births,3815,41,1.1,0.8,1.5
+2013,Glenn,Preterm Births,398,41,10.3,7.7,13.7
+2015,Tuolumne,Preterm Births,466,41,8.8,6.6,11.7
+2016,Tuolumne,Preterm Births,456,41,9,6.7,12
+2018,Sonoma,Very Preterm Births,4519,41,0.9,0.7,1.2
+2010,Imperial,Very Preterm Births,3065,42,1.4,1,1.8
+2018,Tuolumne,Preterm Births,450,42,9.3,7,12.4
+2017,Calaveras,Preterm Births,420,43,10.2,7.7,13.5
+2017,Placer,Very Preterm Births,3678,43,1.2,0.9,1.6
+2017,Sonoma,Very Preterm Births,4642,44,0.9,0.7,1.3
+2013,Merced,Very Preterm Births,4161,45,1.1,0.8,1.4
+2012,Nevada,Preterm Births,806,46,5.7,4.3,7.5
+2014,Merced,Very Preterm Births,4156,46,1.1,0.8,1.5
+2016,Siskiyou,Preterm Births,461,46,10,7.6,13.1
+2010,Santa Cruz,Very Preterm Births,3178,47,1.5,1.1,2
+2018,Siskiyou,Preterm Births,436,47,10.8,8.2,14
+2012,Siskiyou,Preterm Births,499,48,9.6,7.3,12.5
+2015,Lake,Preterm Births,717,48,6.7,5.1,8.8
+2015,Santa Cruz,Very Preterm Births,2834,48,1.7,1.3,2.2
+2017,San Benito,Preterm Births,733,48,6.5,5,8.6
+2011,San Luis Obispo,Very Preterm Births,2630,49,1.9,1.4,2.5
+2011,Siskiyou,Preterm Births,472,49,10.4,7.9,13.5
+2011,Nevada,Preterm Births,758,50,6.6,5,8.6
+2011,Tehama,Preterm Births,728,50,6.9,5.2,8.9
+2012,Santa Barbara,Very Preterm Births,5570,50,0.9,0.7,1.2
+2012,Tehama,Preterm Births,767,50,6.5,5,8.5
+2013,Tehama,Preterm Births,752,50,6.6,5.1,8.7
+2018,Merced,Very Preterm Births,3871,50,1.3,1,1.7
+2018,Nevada,Preterm Births,770,51,6.6,5.1,8.6
+2011,Merced,Very Preterm Births,4279,52,1.2,0.9,1.6
+2014,San Benito,Preterm Births,694,52,7.5,5.8,9.7
+2017,Siskiyou,Preterm Births,446,52,11.7,9,15
+2011,Placer,Very Preterm Births,3823,53,1.4,1.1,1.8
+2012,San Benito,Preterm Births,700,53,7.6,5.8,9.8
+2018,Tehama,Preterm Births,733,53,7.2,5.6,9.3
+2010,San Benito,Preterm Births,734,54,7.4,5.7,9.5
+2015,Placer,Very Preterm Births,3743,54,1.4,1.1,1.9
+2016,Lake,Preterm Births,745,54,7.2,5.6,9.3
+2010,Lake,Preterm Births,706,55,7.8,6,10
+2011,Lake,Preterm Births,695,55,7.9,6.1,10.2
+2013,Nevada,Preterm Births,814,55,6.8,5.2,8.7
+2014,Sonoma,Very Preterm Births,5072,55,1.1,0.8,1.4
+2013,Sonoma,Very Preterm Births,4979,56,1.1,0.9,1.5
+2016,San Benito,Preterm Births,775,56,7.2,5.6,9.3
+2015,Solano,Very Preterm Births,5131,57,1.1,0.9,1.4
+2010,Sonoma,Very Preterm Births,5388,58,1.1,0.8,1.4
+2010,Tehama,Preterm Births,766,58,7.6,5.9,9.7
+2014,Tehama,Preterm Births,786,58,7.4,5.8,9.4
+2015,Sonoma,Very Preterm Births,5010,58,1.2,0.9,1.5
+2016,Nevada,Preterm Births,778,58,7.5,5.8,9.5
+2014,Nevada,Preterm Births,808,59,7.3,5.7,9.3
+2016,Sonoma,Very Preterm Births,4963,59,1.2,0.9,1.5
+2010,Santa Barbara,Very Preterm Births,5814,60,1,0.8,1.3
+2012,Merced,Very Preterm Births,4308,60,1.4,1.1,1.8
+2012,Sonoma,Very Preterm Births,5142,60,1.2,0.9,1.5
+2014,Lake,Preterm Births,741,60,8.1,6.3,10.3
+2017,Lake,Preterm Births,749,60,8,6.3,10.2
+2016,Monterey,Very Preterm Births,6220,61,1,0.8,1.3
+2010,Merced,Very Preterm Births,4243,62,1.5,1.1,1.9
+2011,Sonoma,Very Preterm Births,5147,62,1.2,0.9,1.5
+2016,Tehama,Preterm Births,788,62,7.9,6.2,10
+2011,San Benito,Preterm Births,763,63,8.3,6.5,10.4
+2012,Lake,Preterm Births,720,63,8.8,6.9,11
+2013,Santa Barbara,Very Preterm Births,5750,63,1.1,0.9,1.4
+2018,Santa Barbara,Very Preterm Births,5257,63,1.2,0.9,1.5
+2017,Solano,Very Preterm Births,5129,64,1.2,1,1.6
+2017,Monterey,Very Preterm Births,5812,65,1.1,0.9,1.4
+2018,Monterey,Very Preterm Births,5889,66,1.1,0.9,1.4
+2011,Mendocino,Preterm Births,1057,67,6.3,5,8
+2013,Monterey,Very Preterm Births,6544,67,1,0.8,1.3
+2018,Solano,Very Preterm Births,5026,68,1.4,1.1,1.7
+2014,Solano,Very Preterm Births,5248,69,1.3,1,1.7
+2017,Santa Barbara,Very Preterm Births,5529,70,1.3,1,1.6
+2017,Tehama,Preterm Births,743,70,9.4,7.5,11.7
+2012,San Francisco,Very Preterm Births,9067,71,0.8,0.6,1
+2014,Yuba,Preterm Births,1189,71,6,4.8,7.5
+2015,San Benito,Preterm Births,719,71,9.9,7.9,12.3
+2015,Tehama,Preterm Births,828,71,8.6,6.9,10.7
+2017,Merced,Very Preterm Births,4198,71,1.7,1.3,2.1
+2017,Nevada,Preterm Births,794,71,8.9,7.1,11.1
+2011,Solano,Very Preterm Births,5150,72,1.4,1.1,1.8
+2016,Santa Barbara,Very Preterm Births,5494,72,1.3,1,1.6
+2011,Santa Barbara,Very Preterm Births,5789,73,1.3,1,1.6
+2013,Lake,Preterm Births,746,73,9.8,7.9,12.1
+2013,San Benito,Preterm Births,751,73,9.7,7.8,12
+2014,Santa Barbara,Very Preterm Births,5825,74,1.3,1,1.6
+2015,Santa Barbara,Very Preterm Births,5669,74,1.3,1,1.6
+2016,Solano,Very Preterm Births,5259,75,1.4,1.1,1.8
+2010,Mendocino,Preterm Births,1050,76,7.2,5.8,9
+2014,Monterey,Very Preterm Births,6457,76,1.2,0.9,1.5
+2018,Lake,Preterm Births,715,76,10.6,8.6,13.1
+2018,Mendocino,Preterm Births,898,76,8.5,6.8,10.5
+2010,Solano,Very Preterm Births,5044,77,1.5,1.2,1.9
+2012,Solano,Very Preterm Births,5053,77,1.5,1.2,1.9
+2015,Nevada,Preterm Births,874,78,8.9,7.2,11
+2013,Mendocino,Preterm Births,1005,80,8,6.4,9.8
+2013,Solano,Very Preterm Births,5250,80,1.5,1.2,1.9
+2015,San Francisco,Very Preterm Births,8969,80,0.9,0.7,1.1
+2018,San Benito,Preterm Births,772,80,10.4,8.4,12.7
+2016,San Francisco,Very Preterm Births,9056,81,0.9,0.7,1.1
+2015,Mendocino,Preterm Births,1051,82,7.8,6.3,9.6
+2016,Mendocino,Preterm Births,1023,82,8,6.5,9.8
+2011,Monterey,Very Preterm Births,6803,83,1.2,1,1.5
+2013,San Mateo,Very Preterm Births,8821,83,0.9,0.8,1.2
+2014,San Francisco,Very Preterm Births,9101,84,0.9,0.7,1.1
+2018,San Mateo,Very Preterm Births,8325,85,1,0.8,1.3
+2018,San Francisco,Very Preterm Births,8690,86,1,0.8,1.2
+2018,Stanislaus,Very Preterm Births,7338,87,1.2,1,1.5
+2012,Yuba,Preterm Births,1211,88,7.3,5.9,8.9
+2014,Stanislaus,Very Preterm Births,7506,88,1.2,1,1.4
+2012,Monterey,Very Preterm Births,6643,89,1.3,1.1,1.6
+2014,Tulare,Very Preterm Births,7609,89,1.2,1,1.4
+2017,San Francisco,Very Preterm Births,8940,89,1,0.8,1.2
+2018,Yuba,Preterm Births,1096,90,8.2,6.7,10
+2015,Humboldt,Preterm Births,1443,92,6.4,5.2,7.8
+2013,Sutter,Preterm Births,1283,93,7.2,6,8.8
+2017,Sutter,Preterm Births,1262,93,7.4,6.1,8.9
+2014,San Mateo,Very Preterm Births,9096,94,1,0.8,1.3
+2017,Stanislaus,Very Preterm Births,7438,94,1.3,1,1.5
+2015,San Mateo,Very Preterm Births,9035,95,1.1,0.9,1.3
+2016,Ventura,Very Preterm Births,9591,95,1,0.8,1.2
+2011,Yuba,Preterm Births,1280,96,7.5,6.2,9.1
+2014,Mendocino,Preterm Births,1014,96,9.5,7.8,11.4
+2010,Monterey,Very Preterm Births,6757,97,1.4,1.2,1.7
+2016,San Mateo,Very Preterm Births,8956,97,1.1,0.9,1.3
+2016,Yuba,Preterm Births,1237,97,7.8,6.5,9.5
+2017,Ventura,Very Preterm Births,9320,98,1.1,0.9,1.3
+2010,Yuba,Preterm Births,1222,99,8.1,6.7,9.8
+2011,Stanislaus,Very Preterm Births,7719,99,1.3,1.1,1.6
+2012,Tulare,Very Preterm Births,7994,99,1.2,1,1.5
+2015,Yuba,Preterm Births,1155,99,8.6,7.1,10.3
+2012,Mendocino,Preterm Births,1145,100,8.7,7.2,10.5
+2013,San Francisco,Very Preterm Births,8806,100,1.1,0.9,1.4
+2015,Monterey,Very Preterm Births,6421,100,1.6,1.3,1.9
+2017,Mendocino,Preterm Births,988,100,10.1,8.4,12.2
+2018,Napa,Preterm Births,1200,100,8.3,6.9,10
+2010,Tulare,Very Preterm Births,8150,101,1.2,1,1.5
+2011,San Francisco,Very Preterm Births,8807,101,1.1,0.9,1.4
+2012,Sutter,Preterm Births,1258,101,8,6.7,9.7
+2015,Napa,Preterm Births,1443,102,7.1,5.9,8.5
+2010,San Mateo,Very Preterm Births,9185,103,1.1,0.9,1.4
+2011,Humboldt,Preterm Births,1444,103,7.1,5.9,8.6
+2011,San Mateo,Very Preterm Births,9045,103,1.1,0.9,1.4
+2013,Humboldt,Preterm Births,1519,103,6.8,5.6,8.2
+2017,Humboldt,Preterm Births,1368,103,7.5,6.2,9
+2017,Tulare,Very Preterm Births,7126,103,1.4,1.2,1.7
+2018,Ventura,Very Preterm Births,9027,103,1.1,0.9,1.4
+2010,San Francisco,Very Preterm Births,8796,104,1.2,1,1.4
+2012,Humboldt,Preterm Births,1503,105,7,5.8,8.4
+2014,Napa,Preterm Births,1464,105,7.2,6,8.6
+2018,Tulare,Very Preterm Births,6895,105,1.5,1.3,1.8
+2010,Stanislaus,Very Preterm Births,7767,107,1.4,1.1,1.7
+2011,Tulare,Very Preterm Births,7964,107,1.3,1.1,1.6
+2014,Humboldt,Preterm Births,1467,108,7.4,6.1,8.8
+2015,Stanislaus,Very Preterm Births,7689,108,1.4,1.2,1.7
+2013,Yuba,Preterm Births,1199,109,9.1,7.6,10.9
+2016,Tulare,Very Preterm Births,7136,109,1.5,1.3,1.8
+2011,Sutter,Preterm Births,1326,110,8.3,6.9,9.9
+2016,Stanislaus,Very Preterm Births,7863,110,1.4,1.2,1.7
+2015,Sutter,Preterm Births,1302,111,8.5,7.1,10.2
+2017,Napa,Preterm Births,1289,111,8.6,7.2,10.3
+2014,Sutter,Preterm Births,1315,112,8.5,7.1,10.1
+2010,Humboldt,Preterm Births,1542,113,7.3,6.1,8.7
+2017,El Dorado,Preterm Births,1567,113,7.2,6,8.6
+2013,Tulare,Very Preterm Births,7639,114,1.5,1.2,1.8
+2017,San Mateo,Very Preterm Births,8585,114,1.3,1.1,1.6
+2017,Yuba,Preterm Births,1182,114,9.6,8.1,11.5
+2016,Napa,Preterm Births,1399,115,8.2,6.9,9.8
+2018,Sutter,Preterm Births,1267,115,9.1,7.6,10.8
+2010,Napa,Preterm Births,1483,116,7.8,6.6,9.3
+2012,Napa,Preterm Births,1388,116,8.4,7,9.9
+2013,El Dorado,Preterm Births,1529,116,7.6,6.4,9
+2013,Napa,Preterm Births,1416,116,8.2,6.9,9.7
+2013,Stanislaus,Very Preterm Births,7561,116,1.5,1.3,1.8
+2012,San Mateo,Very Preterm Births,9180,117,1.3,1.1,1.5
+2012,Stanislaus,Very Preterm Births,7581,118,1.6,1.3,1.9
+2018,Humboldt,Preterm Births,1362,118,8.7,7.3,10.3
+2014,El Dorado,Preterm Births,1616,120,7.4,6.2,8.8
+2015,Ventura,Very Preterm Births,10061,121,1.2,1,1.4
+2016,Humboldt,Preterm Births,1488,122,8.2,6.9,9.7
+2010,Sutter,Preterm Births,1357,123,9.1,7.6,10.7
+2011,Napa,Preterm Births,1524,123,8.1,6.8,9.5
+2012,Ventura,Very Preterm Births,10638,123,1.2,1,1.4
+2016,Sutter,Preterm Births,1367,123,9,7.6,10.6
+2012,El Dorado,Preterm Births,1512,124,8.2,6.9,9.7
+2016,El Dorado,Preterm Births,1599,124,7.8,6.5,9.2
+2015,Tulare,Very Preterm Births,7405,125,1.7,1.4,2
+2010,San Joaquin,Very Preterm Births,10583,127,1.2,1,1.4
+2015,El Dorado,Preterm Births,1594,130,8.2,6.9,9.6
+2011,El Dorado,Preterm Births,1629,131,8,6.8,9.5
+2010,Ventura,Very Preterm Births,11145,134,1.2,1,1.4
+2014,Ventura,Very Preterm Births,10469,136,1.3,1.1,1.5
+2012,San Joaquin,Very Preterm Births,10117,137,1.4,1.1,1.6
+2013,Ventura,Very Preterm Births,10440,138,1.3,1.1,1.6
+2015,Contra Costa,Very Preterm Births,12593,138,1.1,0.9,1.3
+2016,Contra Costa,Very Preterm Births,12342,139,1.1,1,1.3
+2010,El Dorado,Preterm Births,1617,140,8.7,7.4,10.1
+2014,San Joaquin,Very Preterm Births,10088,141,1.4,1.2,1.6
+2018,Marin,Preterm Births,2126,141,6.6,5.7,7.8
+2016,San Joaquin,Very Preterm Births,10257,142,1.4,1.2,1.6
+2014,Shasta,Preterm Births,2077,143,6.9,5.9,8.1
+2011,Ventura,Very Preterm Births,10655,144,1.4,1.1,1.6
+2013,Contra Costa,Very Preterm Births,12144,146,1.2,1,1.4
+2018,El Dorado,Preterm Births,1668,146,8.8,7.5,10.2
+2017,Shasta,Preterm Births,2005,148,7.4,6.3,8.6
+2012,Shasta,Preterm Births,2097,149,7.1,6.1,8.3
+2017,San Joaquin,Very Preterm Births,9919,150,1.5,1.3,1.8
+2010,Contra Costa,Very Preterm Births,12341,152,1.2,1.1,1.4
+2018,San Joaquin,Very Preterm Births,9802,152,1.6,1.3,1.8
+2015,Marin,Preterm Births,2287,153,6.7,5.7,7.8
+2014,Contra Costa,Very Preterm Births,12557,155,1.2,1.1,1.4
+2015,San Joaquin,Very Preterm Births,9979,156,1.6,1.3,1.8
+2018,Shasta,Preterm Births,1958,157,8,6.9,9.3
+2018,Yolo,Preterm Births,2129,158,7.4,6.4,8.6
+2017,Yolo,Preterm Births,2270,161,7.1,6.1,8.2
+2015,Yolo,Preterm Births,2398,162,6.8,5.8,7.8
+2018,Contra Costa,Very Preterm Births,11981,162,1.4,1.2,1.6
+2010,Shasta,Preterm Births,2133,163,7.6,6.6,8.8
+2013,San Joaquin,Very Preterm Births,9792,163,1.7,1.4,1.9
+2011,Shasta,Preterm Births,2013,164,8.1,7,9.4
+2012,Contra Costa,Very Preterm Births,12048,165,1.4,1.2,1.6
+2016,Marin,Preterm Births,2253,166,7.4,6.4,8.5
+2013,Butte,Preterm Births,2408,167,6.9,6,8
+2011,San Joaquin,Very Preterm Births,10320,170,1.6,1.4,1.9
+2013,Madera,Preterm Births,2310,170,7.4,6.4,8.5
+2014,Marin,Preterm Births,2403,170,7.1,6.1,8.2
+2010,Marin,Preterm Births,2366,171,7.2,6.3,8.3
+2011,Contra Costa,Very Preterm Births,12053,171,1.4,1.2,1.6
+2011,Marin,Preterm Births,2384,171,7.2,6.2,8.3
+2013,Shasta,Preterm Births,2131,173,8.1,7,9.4
+2017,Madera,Preterm Births,2120,173,8.2,7.1,9.4
+2012,Marin,Preterm Births,2306,174,7.5,6.5,8.7
+2017,Marin,Preterm Births,2237,174,7.8,6.7,9
+2016,Butte,Preterm Births,2484,175,7,6.1,8.1
+2017,Contra Costa,Very Preterm Births,12184,175,1.4,1.2,1.7
+2014,Madera,Preterm Births,2302,176,7.6,6.6,8.8
+2014,Yolo,Preterm Births,2389,176,7.4,6.4,8.5
+2015,Madera,Preterm Births,2221,178,8,7,9.2
+2010,Kern,Very Preterm Births,14165,180,1.3,1.1,1.5
+2014,San Luis Obispo,Preterm Births,2591,180,6.9,6,8
+2010,Butte,Preterm Births,2447,183,7.5,6.5,8.6
+2010,Yolo,Preterm Births,2421,183,7.6,6.6,8.7
+2015,Butte,Preterm Births,2436,183,7.5,6.5,8.6
+2016,Yolo,Preterm Births,2419,183,7.6,6.6,8.7
+2015,Shasta,Preterm Births,2066,185,9,7.8,10.3
+2012,Butte,Preterm Births,2393,186,7.8,6.8,8.9
+2012,Madera,Preterm Births,2249,186,8.3,7.2,9.5
+2017,San Luis Obispo,Preterm Births,2548,186,7.3,6.4,8.4
+2018,Santa Cruz,Preterm Births,2443,187,7.7,6.7,8.8
+2011,Madera,Preterm Births,2400,189,7.9,6.9,9
+2018,Madera,Preterm Births,2072,189,9.1,8,10.4
+2012,Yolo,Preterm Births,2443,190,7.8,6.8,8.9
+2011,Butte,Preterm Births,2383,191,8,7,9.2
+2016,Madera,Preterm Births,2353,191,8.1,7.1,9.3
+2018,Butte,Preterm Births,2412,191,7.9,6.9,9.1
+2016,Kern,Very Preterm Births,13636,192,1.4,1.2,1.6
+2012,Kings,Preterm Births,2354,194,8.2,7.2,9.4
+2014,Santa Cruz,Preterm Births,3041,194,6.4,5.6,7.3
+2017,Butte,Preterm Births,2382,194,8.1,7.1,9.3
+2011,Kern,Very Preterm Births,14079,195,1.4,1.2,1.6
+2013,Santa Cruz,Preterm Births,2857,196,6.9,6,7.8
+2013,Kings,Preterm Births,2391,197,8.2,7.2,9.4
+2016,Santa Cruz,Preterm Births,2795,197,7,6.2,8.1
+2016,Shasta,Preterm Births,2043,197,9.6,8.4,11
+2017,Kern,Very Preterm Births,13228,197,1.5,1.3,1.7
+2013,Yolo,Preterm Births,2486,198,8,7,9.1
+2014,Butte,Preterm Births,2475,199,8,7,9.2
+2011,Yolo,Preterm Births,2330,200,8.6,7.5,9.8
+2013,Marin,Preterm Births,2317,200,8.6,7.6,9.8
+2014,Kings,Preterm Births,2339,202,8.6,7.6,9.8
+2015,Kings,Preterm Births,2274,202,8.9,7.8,10.1
+2018,Kings,Preterm Births,2256,202,9,7.8,10.2
+2012,San Luis Obispo,Preterm Births,2577,204,7.9,6.9,9
+2012,Santa Cruz,Preterm Births,3071,204,6.6,5.8,7.6
+2018,Kern,Very Preterm Births,12813,206,1.6,1.4,1.8
+2010,San Luis Obispo,Preterm Births,2725,208,7.6,6.7,8.7
+2018,Imperial,Preterm Births,2594,208,8,7,9.1
+2018,San Luis Obispo,Preterm Births,2431,209,8.6,7.5,9.8
+2018,Alameda,Very Preterm Births,18220,215,1.2,1,1.3
+2015,Kern,Very Preterm Births,13527,216,1.6,1.4,1.8
+2012,Kern,Very Preterm Births,14435,218,1.5,1.3,1.7
+2016,San Luis Obispo,Preterm Births,2579,218,8.5,7.4,9.6
+2018,Fresno,Very Preterm Births,14405,219,1.5,1.3,1.7
+2016,Alameda,Very Preterm Births,19567,220,1.1,1,1.3
+2017,Santa Cruz,Preterm Births,2658,221,8.3,7.3,9.4
+2013,San Luis Obispo,Preterm Births,2644,222,8.4,7.4,9.5
+2015,Alameda,Very Preterm Births,19433,223,1.1,1,1.3
+2017,Imperial,Preterm Births,2865,224,7.8,6.9,8.9
+2017,Kings,Preterm Births,2374,225,9.5,8.4,10.7
+2011,Santa Cruz,Preterm Births,3229,226,7,6.2,7.9
+2016,Fresno,Very Preterm Births,15116,226,1.5,1.3,1.7
+2017,Santa Clara,Very Preterm Births,22127,226,1,0.9,1.2
+2015,San Luis Obispo,Preterm Births,2663,228,8.6,7.6,9.7
+2010,Madera,Preterm Births,2428,229,9.4,8.3,10.7
+2011,Kings,Preterm Births,2562,230,9,7.9,10.1
+2011,Imperial,Preterm Births,3037,232,7.6,6.7,8.6
+2011,San Luis Obispo,Preterm Births,2630,232,8.8,7.8,10
+2018,Santa Clara,Very Preterm Births,21265,233,1.1,1,1.2
+2010,Kings,Preterm Births,2504,234,9.3,8.3,10.5
+2017,Fresno,Very Preterm Births,14532,234,1.6,1.4,1.8
+2012,Imperial,Preterm Births,2898,236,8.1,7.2,9.2
+2014,Kern,Very Preterm Births,13975,237,1.7,1.5,1.9
+2016,Kings,Preterm Births,2243,237,10.6,9.4,11.9
+2013,Imperial,Preterm Births,2933,238,8.1,7.2,9.2
+2013,Placer,Preterm Births,3679,239,6.5,5.7,7.3
+2013,Alameda,Very Preterm Births,19235,240,1.2,1.1,1.4
+2015,Santa Cruz,Preterm Births,2834,242,8.5,7.6,9.6
+2011,Alameda,Very Preterm Births,18983,243,1.3,1.1,1.5
+2015,Imperial,Preterm Births,3111,247,7.9,7,8.9
+2012,Fresno,Very Preterm Births,15811,248,1.6,1.4,1.8
+2013,Kern,Very Preterm Births,14055,248,1.8,1.6,2
+2017,Alameda,Very Preterm Births,18888,248,1.3,1.2,1.5
+2014,Santa Clara,Very Preterm Births,23745,251,1.1,0.9,1.2
+2016,Imperial,Preterm Births,2932,253,8.6,7.7,9.7
+2010,Santa Cruz,Preterm Births,3178,258,8.1,7.2,9.1
+2010,Alameda,Very Preterm Births,19280,259,1.3,1.2,1.5
+2010,Fresno,Very Preterm Births,16231,262,1.6,1.4,1.8
+2011,Santa Clara,Very Preterm Births,23611,262,1.1,1,1.3
+2014,Fresno,Very Preterm Births,15725,262,1.7,1.5,1.9
+2014,Placer,Preterm Births,3636,264,7.3,6.5,8.2
+2013,Sacramento,Very Preterm Births,19307,266,1.4,1.2,1.6
+2010,Imperial,Preterm Births,3065,267,8.7,7.8,9.8
+2013,Santa Clara,Very Preterm Births,23282,271,1.2,1,1.3
+2015,Sacramento,Very Preterm Births,19380,271,1.4,1.2,1.6
+2015,Fresno,Very Preterm Births,15343,272,1.8,1.6,2
+2014,Alameda,Very Preterm Births,19642,273,1.4,1.2,1.6
+2016,Santa Clara,Very Preterm Births,23035,273,1.2,1.1,1.3
+2010,Santa Clara,Very Preterm Births,23914,274,1.1,1,1.3
+2017,Sacramento,Very Preterm Births,19182,275,1.4,1.3,1.6
+2018,Sacramento,Very Preterm Births,19054,275,1.4,1.3,1.6
+2013,Fresno,Very Preterm Births,15647,277,1.8,1.6,2
+2016,Placer,Preterm Births,3727,277,7.4,6.6,8.3
+2011,Fresno,Very Preterm Births,16095,278,1.7,1.5,1.9
+2012,Placer,Preterm Births,3644,279,7.7,6.8,8.6
+2015,Santa Clara,Very Preterm Births,23389,279,1.2,1.1,1.3
+2012,Santa Clara,Very Preterm Births,24280,281,1.2,1,1.3
+2012,Alameda,Very Preterm Births,19532,282,1.4,1.3,1.6
+2012,Sacramento,Very Preterm Births,19541,284,1.5,1.3,1.6
+2017,Placer,Preterm Births,3678,284,7.7,6.9,8.6
+2014,Imperial,Preterm Births,3167,287,9.1,8.1,10.1
+2010,Sacramento,Very Preterm Births,20034,290,1.4,1.3,1.6
+2011,Placer,Preterm Births,3823,296,7.7,6.9,8.6
+2016,Sacramento,Very Preterm Births,19559,296,1.5,1.4,1.7
+2018,Placer,Preterm Births,3655,300,8.2,7.4,9.1
+2010,Placer,Preterm Births,3815,303,7.9,7.1,8.8
+2011,Sacramento,Very Preterm Births,19945,306,1.5,1.4,1.7
+2014,Sacramento,Very Preterm Births,19755,308,1.6,1.4,1.7
+2017,Sonoma,Preterm Births,4642,308,6.6,6,7.4
+2015,Placer,Preterm Births,3743,320,8.5,7.7,9.5
+2015,Merced,Preterm Births,4103,335,8.2,7.4,9
+2017,Orange,Very Preterm Births,37376,342,0.9,0.8,1
+2018,Sonoma,Preterm Births,4519,346,7.7,6.9,8.5
+2011,Merced,Preterm Births,4279,355,8.3,7.5,9.2
+2014,Merced,Preterm Births,4156,355,8.5,7.7,9.4
+2015,Sonoma,Preterm Births,5010,355,7.1,6.4,7.8
+2016,Merced,Preterm Births,4116,355,8.6,7.8,9.5
+2018,Merced,Preterm Births,3871,357,9.2,8.4,10.2
+2015,Riverside,Very Preterm Births,30501,358,1.2,1.1,1.3
+2018,Orange,Very Preterm Births,35634,358,1,0.9,1.1
+2013,Merced,Preterm Births,4161,365,8.8,7.9,9.7
+2011,Riverside,Very Preterm Births,30600,367,1.2,1.1,1.3
+2012,Merced,Preterm Births,4308,367,8.5,7.7,9.4
+2018,Riverside,Very Preterm Births,28672,367,1.3,1.2,1.4
+2013,Sonoma,Preterm Births,4979,378,7.6,6.9,8.4
+2012,Santa Barbara,Preterm Births,5570,379,6.8,6.2,7.5
+2017,Merced,Preterm Births,4198,388,9.2,8.4,10.2
+2015,Orange,Very Preterm Births,37560,389,1,0.9,1.1
+2016,Sonoma,Preterm Births,4963,390,7.9,7.1,8.6
+2014,Sonoma,Preterm Births,5072,391,7.7,7,8.5
+2012,Sonoma,Preterm Births,5142,401,7.8,7.1,8.6
+2010,Merced,Preterm Births,4243,402,9.5,8.6,10.4
+2011,Sonoma,Preterm Births,5147,407,7.9,7.2,8.7
+2014,Orange,Very Preterm Births,38509,407,1.1,1,1.2
+2015,Solano,Preterm Births,5131,407,7.9,7.2,8.7
+2013,Riverside,Very Preterm Births,29923,409,1.4,1.2,1.5
+2010,Riverside,Very Preterm Births,30601,411,1.3,1.2,1.5
+2017,Riverside,Very Preterm Births,29874,413,1.4,1.3,1.5
+2012,Orange,Very Preterm Births,38150,418,1.1,1,1.2
+2014,Santa Barbara,Preterm Births,5825,418,7.2,6.5,7.9
+2018,Solano,Preterm Births,5026,418,8.3,7.6,9.1
+2016,Riverside,Very Preterm Births,30666,420,1.4,1.2,1.5
+2010,Santa Barbara,Preterm Births,5814,425,7.3,6.7,8
+2014,Solano,Preterm Births,5248,428,8.2,7.4,8.9
+2010,Orange,Very Preterm Births,38087,429,1.1,1,1.2
+2017,Solano,Preterm Births,5129,429,8.4,7.6,9.2
+2013,Orange,Very Preterm Births,37240,434,1.2,1.1,1.3
+2016,Orange,Very Preterm Births,38063,436,1.1,1,1.3
+2014,Riverside,Very Preterm Births,30254,437,1.4,1.3,1.6
+2010,Sonoma,Preterm Births,5388,440,8.2,7.5,8.9
+2012,Riverside,Very Preterm Births,30308,441,1.5,1.3,1.6
+2011,Solano,Preterm Births,5150,444,8.6,7.9,9.4
+2017,San Bernardino,Very Preterm Births,29684,444,1.5,1.4,1.6
+2010,Solano,Preterm Births,5044,446,8.8,8.1,9.7
+2010,San Bernardino,Very Preterm Births,31305,447,1.4,1.3,1.6
+2011,Orange,Very Preterm Births,38026,453,1.2,1.1,1.3
+2014,San Bernardino,Very Preterm Births,31268,455,1.5,1.3,1.6
+2016,Solano,Preterm Births,5259,456,8.7,7.9,9.5
+2011,San Bernardino,Very Preterm Births,30542,458,1.5,1.4,1.6
+2012,Solano,Preterm Births,5053,461,9.1,8.4,9.9
+2015,Santa Barbara,Preterm Births,5669,461,8.1,7.4,8.9
+2011,Santa Barbara,Preterm Births,5789,462,8,7.3,8.7
+2013,Solano,Preterm Births,5250,468,8.9,8.2,9.7
+2013,Santa Barbara,Preterm Births,5750,472,8.2,7.5,8.9
+2015,San Bernardino,Very Preterm Births,30586,472,1.5,1.4,1.7
+2018,Santa Barbara,Preterm Births,5257,474,9,8.3,9.8
+2018,San Bernardino,Very Preterm Births,28935,477,1.6,1.5,1.8
+2016,San Bernardino,Very Preterm Births,31081,479,1.5,1.4,1.7
+2012,Monterey,Preterm Births,6643,481,7.2,6.6,7.9
+2018,Monterey,Preterm Births,5889,483,8.2,7.5,8.9
+2013,San Bernardino,Very Preterm Births,30172,484,1.6,1.5,1.8
+2017,San Diego,Very Preterm Births,41243,484,1.2,1.1,1.3
+2016,Monterey,Preterm Births,6220,486,7.8,7.2,8.5
+2017,Monterey,Preterm Births,5812,486,8.4,7.7,9.1
+2013,Monterey,Preterm Births,6544,495,7.6,6.9,8.2
+2012,San Bernardino,Very Preterm Births,30659,497,1.6,1.5,1.8
+2011,San Diego,Very Preterm Births,43616,505,1.2,1.1,1.3
+2016,Santa Barbara,Preterm Births,5494,506,9.2,8.5,10
+2018,San Diego,Very Preterm Births,39990,506,1.3,1.2,1.4
+2011,Monterey,Preterm Births,6803,508,7.5,6.9,8.1
+2014,Monterey,Preterm Births,6457,514,8,7.3,8.6
+2015,Monterey,Preterm Births,6421,514,8,7.4,8.7
+2017,Santa Barbara,Preterm Births,5529,524,9.5,8.7,10.3
+2013,San Diego,Very Preterm Births,43622,525,1.2,1.1,1.3
+2010,Monterey,Preterm Births,6757,530,7.8,7.2,8.5
+2012,San Diego,Very Preterm Births,44380,533,1.2,1.1,1.3
+2010,San Diego,Very Preterm Births,44828,541,1.2,1.1,1.3
+2015,San Diego,Very Preterm Births,43942,549,1.2,1.1,1.4
+2016,San Diego,Very Preterm Births,42731,549,1.3,1.2,1.4
+2014,San Diego,Very Preterm Births,44590,591,1.3,1.2,1.4
+2018,Stanislaus,Preterm Births,7338,600,8.2,7.6,8.8
+2014,Stanislaus,Preterm Births,7506,604,8,7.5,8.7
+2013,Stanislaus,Preterm Births,7561,612,8.1,7.5,8.7
+2018,San Mateo,Preterm Births,8325,616,7.4,6.9,8
+2017,Stanislaus,Preterm Births,7438,630,8.5,7.9,9.1
+2015,Stanislaus,Preterm Births,7689,643,8.4,7.8,9
+2011,Stanislaus,Preterm Births,7719,650,8.4,7.8,9.1
+2016,Stanislaus,Preterm Births,7863,653,8.3,7.7,8.9
+2012,Tulare,Preterm Births,7994,654,8.2,7.6,8.8
+2012,Stanislaus,Preterm Births,7581,662,8.7,8.1,9.4
+2017,San Mateo,Preterm Births,8585,669,7.8,7.2,8.4
+2010,Stanislaus,Preterm Births,7767,672,8.7,8,9.3
+2015,Tulare,Preterm Births,7405,673,9.1,8.5,9.8
+2011,San Francisco,Preterm Births,8807,678,7.7,7.2,8.3
+2013,Tulare,Preterm Births,7639,680,8.9,8.3,9.6
+2010,Tulare,Preterm Births,8150,682,8.4,7.8,9
+2018,Tulare,Preterm Births,6895,687,10,9.3,10.7
+2016,Tulare,Preterm Births,7136,689,9.7,9,10.4
+2017,Tulare,Preterm Births,7126,691,9.7,9,10.4
+2014,Tulare,Preterm Births,7609,693,9.1,8.5,9.8
+2018,Ventura,Preterm Births,9027,693,7.7,7.1,8.2
+2017,San Francisco,Preterm Births,8940,699,7.8,7.3,8.4
+2013,San Mateo,Preterm Births,8821,700,7.9,7.4,8.5
+2014,San Francisco,Preterm Births,9101,703,7.7,7.2,8.3
+2018,San Francisco,Preterm Births,8690,704,8.1,7.5,8.7
+2015,San Francisco,Preterm Births,8969,716,8,7.4,8.6
+2016,Ventura,Preterm Births,9591,719,7.5,7,8
+2011,Tulare,Preterm Births,7964,727,9.1,8.5,9.8
+2016,San Mateo,Preterm Births,8956,736,8.2,7.7,8.8
+2017,Ventura,Preterm Births,9320,736,7.9,7.4,8.5
+2016,San Francisco,Preterm Births,9056,747,8.2,7.7,8.8
+2010,San Francisco,Preterm Births,8796,752,8.5,8,9.2
+2013,San Francisco,Preterm Births,8806,755,8.6,8,9.2
+2011,San Mateo,Preterm Births,9045,762,8.4,7.9,9
+2012,San Mateo,Preterm Births,9180,766,8.3,7.8,8.9
+2015,Ventura,Preterm Births,10061,770,7.7,7.1,8.2
+2014,San Mateo,Preterm Births,9096,773,8.5,7.9,9.1
+2012,San Francisco,Preterm Births,9067,776,8.6,8,9.2
+2010,San Mateo,Preterm Births,9185,778,8.5,7.9,9.1
+2015,San Mateo,Preterm Births,9035,782,8.7,8.1,9.3
+2013,Ventura,Preterm Births,10440,822,7.9,7.4,8.4
+2014,Ventura,Preterm Births,10469,839,8,7.5,8.5
+2011,Ventura,Preterm Births,10655,852,8,7.5,8.5
+2018,San Joaquin,Preterm Births,9802,868,8.9,8.3,9.4
+2010,Ventura,Preterm Births,11145,882,7.9,7.4,8.4
+2012,San Joaquin,Preterm Births,10117,884,8.7,8.2,9.3
+2010,San Joaquin,Preterm Births,10583,885,8.4,7.9,8.9
+2012,Ventura,Preterm Births,10638,885,8.3,7.8,8.9
+2011,San Joaquin,Preterm Births,10320,888,8.6,8.1,9.2
+2013,San Joaquin,Preterm Births,9792,900,9.2,8.6,9.8
+2015,San Joaquin,Preterm Births,9979,910,9.1,8.6,9.7
+2016,San Joaquin,Preterm Births,10257,911,8.9,8.3,9.4
+2014,San Joaquin,Preterm Births,10088,944,9.4,8.8,9.9
+2013,Contra Costa,Preterm Births,12144,960,7.9,7.4,8.4
+2012,Contra Costa,Preterm Births,12048,996,8.3,7.8,8.8
+2011,Contra Costa,Preterm Births,12053,1001,8.3,7.8,8.8
+2017,San Joaquin,Preterm Births,9919,1004,10.1,9.5,10.7
+2018,Contra Costa,Preterm Births,11981,1034,8.6,8.1,9.1
+2010,Contra Costa,Preterm Births,12341,1057,8.6,8.1,9.1
+2014,Contra Costa,Preterm Births,12557,1077,8.6,8.1,9.1
+2017,Contra Costa,Preterm Births,12184,1082,8.9,8.4,9.4
+2015,Contra Costa,Preterm Births,12593,1104,8.8,8.3,9.3
+2016,Contra Costa,Preterm Births,12342,1126,9.1,8.6,9.6
+2010,Kern,Preterm Births,14165,1229,8.7,8.2,9.2
+2018,Kern,Preterm Births,12813,1240,9.7,9.2,10.2
+2015,Kern,Preterm Births,13527,1256,9.3,8.8,9.8
+2014,Kern,Preterm Births,13975,1259,9,8.5,9.5
+2012,Kern,Preterm Births,14435,1272,8.8,8.4,9.3
+2016,Kern,Preterm Births,13636,1285,9.4,8.9,9.9
+2011,Kern,Preterm Births,14079,1290,9.2,8.7,9.7
+2017,Kern,Preterm Births,13228,1314,9.9,9.4,10.5
+2017,Fresno,Preterm Births,14532,1325,9.1,8.7,9.6
+2013,Kern,Preterm Births,14055,1328,9.4,9,9.9
+2018,Fresno,Preterm Births,14405,1334,9.3,8.8,9.7
+2016,Fresno,Preterm Births,15116,1382,9.1,8.7,9.6
+2014,Fresno,Preterm Births,15725,1492,9.5,9,10
+2018,Los Angeles,Very Preterm Births,110101,1514,1.4,1.3,1.4
+2018,Alameda,Preterm Births,18220,1532,8.4,8,8.8
+2013,Fresno,Preterm Births,15647,1533,9.8,9.3,10.3
+2017,Los Angeles,Very Preterm Births,116785,1547,1.3,1.3,1.4
+2015,Fresno,Preterm Births,15343,1555,10.1,9.7,10.6
+2016,Los Angeles,Very Preterm Births,122817,1559,1.3,1.2,1.3
+2012,Fresno,Preterm Births,15811,1562,9.9,9.4,10.4
+2014,Alameda,Preterm Births,19642,1571,8,7.6,8.4
+2013,Sacramento,Preterm Births,19307,1598,8.3,7.9,8.7
+2012,Sacramento,Preterm Births,19541,1604,8.2,7.8,8.6
+2015,Alameda,Preterm Births,19433,1607,8.3,7.9,8.7
+2011,Alameda,Preterm Births,18983,1608,8.5,8.1,8.9
+2015,Sacramento,Preterm Births,19380,1608,8.3,7.9,8.7
+2010,Alameda,Preterm Births,19280,1622,8.4,8,8.8
+2013,Alameda,Preterm Births,19235,1622,8.4,8,8.8
+2011,Fresno,Preterm Births,16095,1633,10.1,9.7,10.6
+2016,Alameda,Preterm Births,19567,1648,8.4,8,8.8
+2017,Alameda,Preterm Births,18888,1653,8.8,8.4,9.2
+2011,Sacramento,Preterm Births,19945,1656,8.3,7.9,8.7
+2016,Sacramento,Preterm Births,19559,1660,8.5,8.1,8.9
+2010,Fresno,Preterm Births,16231,1662,10.2,9.8,10.7
+2013,Los Angeles,Very Preterm Births,128378,1688,1.3,1.3,1.4
+2014,Sacramento,Preterm Births,19755,1689,8.5,8.2,8.9
+2010,Sacramento,Preterm Births,20034,1692,8.4,8.1,8.8
+2015,Los Angeles,Very Preterm Births,124339,1695,1.4,1.3,1.4
+2018,Sacramento,Preterm Births,19054,1710,9,8.6,9.4
+2012,Alameda,Preterm Births,19532,1714,8.8,8.4,9.2
+2017,Sacramento,Preterm Births,19182,1716,8.9,8.6,9.4
+2012,Los Angeles,Very Preterm Births,131491,1729,1.3,1.3,1.4
+2014,Los Angeles,Very Preterm Births,130040,1754,1.3,1.3,1.4
+2011,Los Angeles,Very Preterm Births,129966,1760,1.4,1.3,1.4
+2018,Santa Clara,Preterm Births,21265,1790,8.4,8.1,8.8
+2010,Los Angeles,Very Preterm Births,132846,1814,1.4,1.3,1.4
+2017,Santa Clara,Preterm Births,22127,1848,8.4,8,8.7
+2016,Santa Clara,Preterm Births,23035,1865,8.1,7.8,8.5
+2014,Santa Clara,Preterm Births,23745,1878,7.9,7.6,8.3
+2015,Santa Clara,Preterm Births,23389,1895,8.1,7.8,8.5
+2013,Santa Clara,Preterm Births,23282,1924,8.3,7.9,8.6
+2011,Santa Clara,Preterm Births,23611,1936,8.2,7.9,8.6
+2012,Santa Clara,Preterm Births,24280,2024,8.3,8,8.7
+2010,Santa Clara,Preterm Births,23914,2048,8.6,8.2,8.9
+2014,Riverside,Preterm Births,30254,2483,8.2,7.9,8.5
+2015,Riverside,Preterm Births,30501,2488,8.2,7.9,8.5
+2013,Riverside,Preterm Births,29923,2553,8.5,8.2,8.9
+2012,Riverside,Preterm Births,30308,2554,8.4,8.1,8.7
+2011,Riverside,Preterm Births,30600,2578,8.4,8.1,8.7
+2016,Riverside,Preterm Births,30666,2595,8.5,8.2,8.8
+2018,Riverside,Preterm Births,28672,2597,9.1,8.7,9.4
+2010,Riverside,Preterm Births,30601,2632,8.6,8.3,8.9
+2017,Riverside,Preterm Births,29874,2634,8.8,8.5,9.1
+2011,San Bernardino,Preterm Births,30542,2653,8.7,8.4,9
+2013,San Bernardino,Preterm Births,30172,2676,8.9,8.6,9.2
+2014,San Bernardino,Preterm Births,31268,2721,8.7,8.4,9
+2018,Orange,Preterm Births,35634,2729,7.7,7.4,7.9
+2017,San Bernardino,Preterm Births,29684,2758,9.3,9,9.6
+2010,San Bernardino,Preterm Births,31305,2794,8.9,8.6,9.2
+2015,San Bernardino,Preterm Births,30586,2795,9.1,8.8,9.5
+2017,Orange,Preterm Births,37376,2803,7.5,7.2,7.8
+2012,San Bernardino,Preterm Births,30659,2825,9.2,8.9,9.5
+2014,Orange,Preterm Births,38509,2844,7.4,7.1,7.7
+2015,Orange,Preterm Births,37560,2849,7.6,7.3,7.9
+2018,San Bernardino,Preterm Births,28935,2858,9.9,9.5,10.2
+2013,Orange,Preterm Births,37240,2874,7.7,7.5,8
+2016,San Bernardino,Preterm Births,31081,2898,9.3,9,9.7
+2012,Orange,Preterm Births,38150,3000,7.9,7.6,8.1
+2016,Orange,Preterm Births,38063,3032,8,7.7,8.2
+2010,Orange,Preterm Births,38087,3096,8.1,7.9,8.4
+2011,Orange,Preterm Births,38026,3141,8.3,8,8.5
+2017,San Diego,Preterm Births,41243,3477,8.4,8.2,8.7
+2018,San Diego,Preterm Births,39990,3552,8.9,8.6,9.2
+2013,San Diego,Preterm Births,43622,3578,8.2,7.9,8.5
+2015,San Diego,Preterm Births,43942,3586,8.2,7.9,8.4
+2016,San Diego,Preterm Births,42731,3628,8.5,8.2,8.8
+2014,San Diego,Preterm Births,44590,3680,8.3,8,8.5
+2012,San Diego,Preterm Births,44380,3718,8.4,8.1,8.6
+2011,San Diego,Preterm Births,43616,3731,8.6,8.3,8.8
+2010,San Diego,Preterm Births,44828,3807,8.5,8.2,8.8
+2018,California,Very Preterm Births,453926,5861,1.3,1.3,1.3
+2017,California,Very Preterm Births,471353,6003,1.3,1.2,1.3
+2016,California,Very Preterm Births,488326,6190,1.3,1.2,1.3
+2015,California,Very Preterm Births,490998,6378,1.3,1.3,1.3
+2013,California,Very Preterm Births,493587,6482,1.3,1.3,1.3
+2012,California,Very Preterm Births,502722,6538,1.3,1.3,1.3
+2011,California,Very Preterm Births,500909,6557,1.3,1.3,1.3
+2014,California,Very Preterm Births,501974,6578,1.3,1.3,1.3
+2010,California,Very Preterm Births,508748,6587,1.3,1.3,1.3
+2018,Los Angeles,Preterm Births,110101,9973,9.1,8.9,9.2
+2017,Los Angeles,Preterm Births,116785,10534,9,8.9,9.2
+2015,Los Angeles,Preterm Births,124339,10941,8.8,8.6,9
+2016,Los Angeles,Preterm Births,122817,10979,8.9,8.8,9.1
+2014,Los Angeles,Preterm Births,130040,11045,8.5,8.3,8.6
+2013,Los Angeles,Preterm Births,128378,11072,8.6,8.5,8.8
+2012,Los Angeles,Preterm Births,131491,11298,8.6,8.4,8.7
+2011,Los Angeles,Preterm Births,129966,11373,8.8,8.6,8.9
+2010,Los Angeles,Preterm Births,132846,11627,8.8,8.6,8.9
+2018,California,Preterm Births,453926,39778,8.8,8.7,8.8
+2017,California,Preterm Births,471353,40911,8.7,8.6,8.8
+2013,California,Preterm Births,493587,41540,8.4,8.3,8.5
+2014,California,Preterm Births,501974,41541,8.3,8.2,8.4
+2015,California,Preterm Births,490998,41553,8.5,8.4,8.5
+2016,California,Preterm Births,488326,42043,8.6,8.5,8.7
+2012,California,Preterm Births,502722,42427,8.4,8.4,8.5
+2011,California,Preterm Births,500909,42616,8.5,8.4,8.6
+2010,California,Preterm Births,508748,43527,8.6,8.5,8.6
+2017,Alpine,Preterm Births,7,,,,
+2017,Alpine,Very Preterm Births,7,,,,
+2017,Modoc,Very Preterm Births,88,,,,
+2017,Plumas,Very Preterm Births,172,,,,
+2017,Sierra,Very Preterm Births,32,,,,
+2017,Trinity,Very Preterm Births,125,,,,
+2018,Modoc,Very Preterm Births,105,,,,
+2018,Sierra,Very Preterm Births,22,,,,
+2017,Amador,Very Preterm Births,302,,,,
+2017,Del Norte,Very Preterm Births,269,,,,
+2017,Mariposa,Very Preterm Births,141,,,,
+2017,Mono,Very Preterm Births,147,,,,
+2018,Alpine,Very Preterm Births,9,,,,
+2018,Del Norte,Very Preterm Births,283,,,,
+2018,Sierra,Preterm Births,22,,,,
+2017,Siskiyou,Very Preterm Births,446,,,,
+2017,Trinity,Preterm Births,125,,,,
+2018,Alpine,Preterm Births,9,,,,
+2018,Colusa,Very Preterm Births,267,,,,
+2018,Mono,Very Preterm Births,132,,,,
+2018,Trinity,Very Preterm Births,112,,,,
+2017,Colusa,Very Preterm Births,293,,,,
+2017,Glenn,Very Preterm Births,377,,,,
+2017,Lassen,Very Preterm Births,301,,,,
+2018,Amador,Very Preterm Births,305,,,,
+2018,Lassen,Very Preterm Births,309,,,,
+2018,Mariposa,Very Preterm Births,155,,,,
+2017,Inyo,Very Preterm Births,210,,,,
+2018,Inyo,Very Preterm Births,172,,,,
+2018,Plumas,Very Preterm Births,163,,,,
+2017,Sierra,Preterm Births,32,,,,
+2018,Calaveras,Very Preterm Births,376,,,,
+2018,Mendocino,Very Preterm Births,898,,,,
+2017,Calaveras,Very Preterm Births,420,,,,
+2017,Lake,Very Preterm Births,749,,,,
+2017,Tuolumne,Very Preterm Births,470,,,,
+2018,Glenn,Very Preterm Births,364,,,,
+2018,Tuolumne,Very Preterm Births,450,,,,
+2017,Modoc,Preterm Births,88,,,,
+2017,Nevada,Very Preterm Births,794,,,,
+2018,Mono,Preterm Births,132,,,,
+2018,San Benito,Very Preterm Births,772,,,,
+2017,San Benito,Very Preterm Births,733,,,,
+2017,Tehama,Very Preterm Births,743,,,,
+2018,Tehama,Very Preterm Births,733,,,,
+2010,Alpine,Preterm Births,4,,,,
+2010,Alpine,Very Preterm Births,4,,,,
+2010,Amador,Very Preterm Births,272,,,,
+2010,Calaveras,Very Preterm Births,346,,,,
+2010,Colusa,Very Preterm Births,338,,,,
+2010,Del Norte,Very Preterm Births,370,,,,
+2010,Glenn,Very Preterm Births,434,,,,
+2010,Inyo,Very Preterm Births,189,,,,
+2010,Lake,Very Preterm Births,706,,,,
+2010,Lassen,Very Preterm Births,319,,,,
+2010,Mariposa,Very Preterm Births,145,,,,
+2010,Modoc,Preterm Births,119,,,,
+2010,Modoc,Very Preterm Births,119,,,,
+2010,Mono,Very Preterm Births,151,,,,
+2010,Nevada,Very Preterm Births,785,,,,
+2010,Plumas,Very Preterm Births,165,,,,
+2010,Sierra,Preterm Births,22,,,,
+2010,Sierra,Very Preterm Births,22,,,,
+2010,Siskiyou,Very Preterm Births,433,,,,
+2010,Trinity,Preterm Births,107,,,,
+2010,Trinity,Very Preterm Births,107,,,,
+2010,Tuolumne,Very Preterm Births,486,,,,
+2011,Alpine,Preterm Births,6,,,,
+2011,Alpine,Very Preterm Births,6,,,,
+2011,Amador,Very Preterm Births,269,,,,
+2011,Calaveras,Very Preterm Births,325,,,,
+2011,Colusa,Very Preterm Births,302,,,,
+2011,Del Norte,Very Preterm Births,337,,,,
+2011,Glenn,Very Preterm Births,388,,,,
+2011,Humboldt,Very Preterm Births,1444,,,,
+2011,Inyo,Very Preterm Births,213,,,,
+2011,Lassen,Very Preterm Births,299,,,,
+2011,Mariposa,Very Preterm Births,131,,,,
+2011,Mendocino,Very Preterm Births,1057,,,,
+2011,Modoc,Preterm Births,87,,,,
+2011,Modoc,Very Preterm Births,87,,,,
+2011,Mono,Preterm Births,154,,,,
+2011,Mono,Very Preterm Births,154,,,,
+2011,Nevada,Very Preterm Births,758,,,,
+2011,Plumas,Very Preterm Births,164,,,,
+2011,Sierra,Preterm Births,23,,,,
+2011,Sierra,Very Preterm Births,23,,,,
+2011,Siskiyou,Very Preterm Births,472,,,,
+2011,Tehama,Very Preterm Births,728,,,,
+2011,Trinity,Preterm Births,121,,,,
+2011,Trinity,Very Preterm Births,121,,,,
+2011,Tuolumne,Very Preterm Births,429,,,,
+2011,Yuba,Very Preterm Births,1280,,,,
+2012,Alpine,Preterm Births,8,,,,
+2012,Alpine,Very Preterm Births,8,,,,
+2012,Amador,Very Preterm Births,284,,,,
+2012,Calaveras,Very Preterm Births,345,,,,
+2012,Colusa,Very Preterm Births,314,,,,
+2012,Del Norte,Very Preterm Births,302,,,,
+2012,Glenn,Very Preterm Births,368,,,,
+2012,Inyo,Very Preterm Births,218,,,,
+2012,Lake,Very Preterm Births,720,,,,
+2012,Lassen,Very Preterm Births,298,,,,
+2012,Mariposa,Very Preterm Births,159,,,,
+2012,Modoc,Preterm Births,75,,,,
+2012,Modoc,Very Preterm Births,75,,,,
+2012,Mono,Preterm Births,131,,,,
+2012,Mono,Very Preterm Births,131,,,,
+2012,Nevada,Very Preterm Births,806,,,,
+2012,Plumas,Very Preterm Births,150,,,,
+2012,San Benito,Very Preterm Births,700,,,,
+2012,Sierra,Preterm Births,17,,,,
+2012,Sierra,Very Preterm Births,17,,,,
+2012,Siskiyou,Very Preterm Births,499,,,,
+2012,Trinity,Preterm Births,125,,,,
+2012,Trinity,Very Preterm Births,125,,,,
+2012,Tuolumne,Very Preterm Births,459,,,,
+2013,Alpine,Preterm Births,5,,,,
+2013,Alpine,Very Preterm Births,5,,,,
+2013,Amador,Very Preterm Births,260,,,,
+2013,Calaveras,Very Preterm Births,336,,,,
+2013,Colusa,Very Preterm Births,313,,,,
+2013,Del Norte,Very Preterm Births,314,,,,
+2013,Inyo,Very Preterm Births,229,,,,
+2013,Lake,Very Preterm Births,746,,,,
+2013,Lassen,Very Preterm Births,291,,,,
+2013,Mariposa,Preterm Births,132,,,,
+2013,Mariposa,Very Preterm Births,132,,,,
+2013,Modoc,Preterm Births,63,,,,
+2013,Modoc,Very Preterm Births,63,,,,
+2013,Mono,Very Preterm Births,150,,,,
+2013,Nevada,Very Preterm Births,814,,,,
+2013,Plumas,Very Preterm Births,150,,,,
+2013,Sierra,Preterm Births,12,,,,
+2013,Sierra,Very Preterm Births,12,,,,
+2013,Siskiyou,Very Preterm Births,443,,,,
+2013,Tehama,Very Preterm Births,752,,,,
+2013,Trinity,Very Preterm Births,99,,,,
+2013,Tuolumne,Very Preterm Births,474,,,,
+2014,Alpine,Preterm Births,6,,,,
+2014,Alpine,Very Preterm Births,6,,,,
+2014,Amador,Very Preterm Births,289,,,,
+2014,Colusa,Very Preterm Births,285,,,,
+2014,Del Norte,Very Preterm Births,324,,,,
+2014,Glenn,Very Preterm Births,416,,,,
+2014,Inyo,Very Preterm Births,225,,,,
+2014,Lassen,Very Preterm Births,322,,,,
+2014,Mariposa,Preterm Births,138,,,,
+2014,Mariposa,Very Preterm Births,138,,,,
+2014,Modoc,Preterm Births,90,,,,
+2014,Modoc,Very Preterm Births,90,,,,
+2014,Mono,Preterm Births,149,,,,
+2014,Mono,Very Preterm Births,149,,,,
+2014,Nevada,Very Preterm Births,808,,,,
+2014,Plumas,Preterm Births,145,,,,
+2014,Plumas,Very Preterm Births,145,,,,
+2014,San Benito,Very Preterm Births,694,,,,
+2014,Sierra,Preterm Births,20,,,,
+2014,Sierra,Very Preterm Births,20,,,,
+2014,Siskiyou,Very Preterm Births,451,,,,
+2014,Tehama,Very Preterm Births,786,,,,
+2014,Trinity,Preterm Births,112,,,,
+2014,Trinity,Very Preterm Births,112,,,,
+2014,Tuolumne,Very Preterm Births,454,,,,
+2015,Alpine,Preterm Births,3,,,,
+2015,Alpine,Very Preterm Births,3,,,,
+2015,Amador,Very Preterm Births,303,,,,
+2015,Calaveras,Very Preterm Births,379,,,,
+2015,Colusa,Very Preterm Births,298,,,,
+2015,Del Norte,Very Preterm Births,298,,,,
+2015,Glenn,Very Preterm Births,376,,,,
+2015,Inyo,Very Preterm Births,203,,,,
+2015,Lake,Very Preterm Births,717,,,,
+2015,Lassen,Very Preterm Births,292,,,,
+2015,Mariposa,Very Preterm Births,165,,,,
+2015,Modoc,Preterm Births,79,,,,
+2015,Modoc,Very Preterm Births,79,,,,
+2015,Mono,Preterm Births,152,,,,
+2015,Mono,Very Preterm Births,152,,,,
+2015,Nevada,Very Preterm Births,874,,,,
+2015,Plumas,Very Preterm Births,162,,,,
+2015,San Benito,Very Preterm Births,719,,,,
+2015,Sierra,Preterm Births,30,,,,
+2015,Sierra,Very Preterm Births,30,,,,
+2015,Trinity,Preterm Births,102,,,,
+2015,Trinity,Very Preterm Births,102,,,,
+2015,Tuolumne,Very Preterm Births,466,,,,
+2015,Yuba,Very Preterm Births,1155,,,,
+2016,Alpine,Preterm Births,6,,,,
+2016,Alpine,Very Preterm Births,6,,,,
+2016,Amador,Very Preterm Births,307,,,,
+2016,Calaveras,Very Preterm Births,373,,,,
+2016,Colusa,Very Preterm Births,316,,,,
+2016,Del Norte,Very Preterm Births,307,,,,
+2016,Glenn,Very Preterm Births,379,,,,
+2016,Inyo,Very Preterm Births,181,,,,
+2016,Lake,Very Preterm Births,745,,,,
+2016,Lassen,Very Preterm Births,305,,,,
+2016,Mariposa,Very Preterm Births,148,,,,
+2016,Modoc,Preterm Births,97,,,,
+2016,Modoc,Very Preterm Births,97,,,,
+2016,Mono,Preterm Births,131,,,,
+2016,Mono,Very Preterm Births,131,,,,
+2016,Napa,Very Preterm Births,1399,,,,
+2016,Nevada,Very Preterm Births,778,,,,
+2016,Plumas,Very Preterm Births,168,,,,
+2016,San Benito,Very Preterm Births,775,,,,
+2016,Sierra,Preterm Births,32,,,,
+2016,Sierra,Very Preterm Births,32,,,,
+2016,Siskiyou,Very Preterm Births,461,,,,
+2016,Tehama,Very Preterm Births,788,,,,
+2016,Trinity,Preterm Births,108,,,,
+2016,Trinity,Very Preterm Births,108,,,,
+2016,Tuolumne,Very Preterm Births,456,,,,
