@@ -21,6 +21,7 @@ Workflow:
         * Chronic Obstructive Pulmonary Disease (COPD) by County https://www.cdc.gov/copd/php/case-reporting/county-level-estimates-in-copd.html
         * Pre-term Birth Rate: https://data.chhs.ca.gov/dataset/preterm-and-very-preterm-live-births
     *  Healthcare utilization patterns: https://github.com/healthinclimateai/datasets/blob/main/milliman/healthcare%20utilization%20summary%20data.xlsx
+    *  National Interagency Fire Occurrence 1992-2020 https://www.nifc.gov/fire-information/statistics
 2. Score Calculation
     * Train ML model to quantify each factors’ effect 
     * ultimately predict risk (composite risk score)
