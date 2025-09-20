@@ -19,6 +19,7 @@ Workflow:
         * Asthma: https://data.cdc.gov/National-Center-for-Health-Statistics/Asthma-in-children-younger-than-age-18-by-selected/aewi-gwni/about_data
         * Chronic disease indicators: https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators/hksd-2xuw/about_data
         * Chronic Obstructive Pulmonary Disease (COPD) by County https://www.cdc.gov/copd/php/case-reporting/county-level-estimates-in-copd.html
+    *  Healthcare utilization patterns: https://github.com/healthinclimateai/datasets/blob/main/milliman/healthcare%20utilization%20summary%20data.xlsx
 2. Score Calculation
     * Train ML model to quantify each factors’ effect 
     * ultimately predict risk (composite risk score)
