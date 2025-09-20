@@ -16,6 +16,8 @@ Workflow:
         *  Systems (Provided by mentor) https://docs.google.com/spreadsheets/d/17jGTpE2QJOuJmqHKvDBXeNny_WquRQJmQHWwYk8EBD0/edit?usp=sharing
     * different regions/counties’ health preparedness/disease prevalence
         * https://gis.data.ca.gov/datasets/CADHCS::mcna-population-points-with-t-d-standards/about
+        * Asthma: https://data.cdc.gov/National-Center-for-Health-Statistics/Asthma-in-children-younger-than-age-18-by-selected/aewi-gwni/about_data
+        * Chronic disease indicators: https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators/hksd-2xuw/about_data
 2. Score Calculation
     * Train ML model to quantify each factors’ effect 
     * ultimately predict risk (composite risk score)
