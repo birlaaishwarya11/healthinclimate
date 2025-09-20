@@ -5,7 +5,7 @@ Workflow:
     * social vulnerability
     * geographic risk
     * population density
-    * health effects of wildfires
+    * health effects of wildfires - Benthan
     * different regions/counties’ health preparedness/disease prevalence
 2. Score Calculation
     * Train ML model to quantify each factors’ effect 
