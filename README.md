@@ -2,7 +2,7 @@ Cornell Tech Cleanup Crew
 
 Workflow:
 1. Input data
-    * social vulnerability
+    * social vulnerability: https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html
     * geographic risk
     * population density
     * health effects of wildfires - Benthan
