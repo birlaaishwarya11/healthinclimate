@@ -64,11 +64,12 @@ export function InfoPanel({ selectedCounty, counties, onPopulationRangeChange, w
             )}
           </div>
         )} */}
+        { selectedCounty && (
           <WeightsPanel
               weights={weights}
               onWeightsChange={onWeightsChange}
           />
-
+        )}
         {/* <PopulationLegend /> */}
       </CardContent>
     </Card>
