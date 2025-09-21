@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>California Counties Interactive Map</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>California Counties Interactive Map</h1>
+        <div class="map-container">
+            <svg id="california-map"></svg>
+            <div id="tooltip" class="tooltip"></div>
+            <div id="county-info" class="county-info">
+                <h3>Click on a county to see details</h3>
+                <p id="selected-county">No county selected</p>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
