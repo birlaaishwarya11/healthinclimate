@@ -24,7 +24,7 @@ export function InteractiveMap({
   const hoveredCountyData = hoveredCounty ? counties.find((c) => c.name === hoveredCounty) : undefined
 
   return (
-    <div className="relative bg-white rounded-lg border-2 border-gray-200 overflow-hidden">
+    <div className="relative bg-gray-300 rounded-lg border-2 border-gray-200 overflow-hidden">
       <svg viewBox="0 0 100 100" className="w-full h-[600px]" style={{ aspectRatio: "1" }}>
 
         {/* County polygons */}

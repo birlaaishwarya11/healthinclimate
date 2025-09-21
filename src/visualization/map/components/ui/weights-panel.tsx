@@ -2,6 +2,7 @@
 
 import { CardContent, CardHeader, CardTitle, Card } from "./card"
 import { WeightSlider } from "./weight-slider"
+import { useRef } from "react";
 
 interface WeightConfig {
   max: number
@@ -37,6 +38,8 @@ export function WeightsPanel({
   descriptions = {},
   className = "",
 }: WeightsPanelProps) {
+  const weightsDictRef = useRef<{ [key: string]: number }>({});
+
   const handleWeightChange = (key: string, newValue: number) => {
     const updatedWeights = {
       ...weights,
@@ -65,16 +68,25 @@ export function WeightsPanel({
     onWeightsChange(resetWeights)
   }
 
-  const calculateTotalScore = () => {
-    return Math.random() * 100
-    // return Object.values(weights).reduce((sum, weight) => sum + weight.value, 0)
+  const calculateTotalScore = (weights: { [key: string]: WeightConfig }) => {
+    const weightValuesKey = Object.keys(weights).map((key) => weights[key].value);
+    const weightValuesKeyStr = weightValuesKey.join(",");
+
+    if (weightsDictRef.current[weightValuesKeyStr]) {
+      return weightsDictRef.current[weightValuesKeyStr];
+    }
+
+    console.log("Weight Values Key:", weightValuesKeyStr);
+    const randomScore = Math.random() * 100; // Random score between 0 and 100
+    weightsDictRef.current[weightValuesKeyStr] = randomScore;
+    return randomScore;
   }
 
   return (
     <div className={`bg-white space-y-4 ${className} w-full`}>
         <CardHeader className="p-0">
-            <CardTitle className="text-xl">Score</CardTitle>
-            <div className="text-lg font-semibold text-gray-800">{calculateTotalScore().toFixed(2)}</div>
+            <CardTitle className="text-xl">Composite Health Score</CardTitle>
+            <div className="text-lg font-semibold text-blue-800">{calculateTotalScore(weights).toFixed(2)}</div>
         </CardHeader>
       <div className="space-y-6">
       {/* Panel header */}

@@ -33,7 +33,7 @@ export default function CaliforniaCountiesMap() {
         key,
         {
           ...weight,
-          value: Math.random() * (weight.max - weight.min) + weight.min,
+          value: parseFloat((Math.random() * (weight.max - weight.min) + weight.min).toFixed(2)),
         },
       ]),
     )
@@ -87,7 +87,7 @@ export default function CaliforniaCountiesMap() {
         <div className="grid lg:grid-cols-4 gap-6">
           {/* Map Section */}
           <div className="lg:col-span-3">
-            <Card className="h-full">
+            <Card className="h-full backdrop-blur-sm bg-white/70">
               <CardContent className="p-6">
                 <InteractiveMap
                   counties={filteredCounties}
