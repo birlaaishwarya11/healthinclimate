@@ -9,10 +9,10 @@ export function PageHeader() {
     <Card className="mb-6">
       <CardHeader>
         <CardTitle className="text-3xl font-bold text-center text-gray-800">
-          California Counties Interactive Map
+          California Counties Fire Map
         </CardTitle>
         <p className="text-center text-gray-600 mt-2">
-          Click on counties to explore population data. Hover for quick info.
+          Click on counties to explore fire data. Hover for quick info.
         </p>
       </CardHeader>
     </Card>
