@@ -2,7 +2,7 @@ import type { County } from "@/types/county"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { CountyDetails } from "./county-details"
 import { PopulationLegend } from "./population-legend"
-import { PopulationRangeSlider } from "./population-range-slider"
+import { RangeSlider } from "./population-range-slider"
 
 interface InfoPanelProps {
   selectedCounty: string | null
@@ -30,10 +30,11 @@ export function InfoPanel({ selectedCounty, counties, onPopulationRangeChange }:
 
         {onPopulationRangeChange && (
           <div className="border-t pt-4">
-            <PopulationRangeSlider
-              minPopulation={minPopulation}
-              maxPopulation={maxPopulation}
+            <RangeSlider
+              min={minPopulation}
+              max={maxPopulation}
               onRangeChange={onPopulationRangeChange}
+              title="Population Range Filter"
             />
           </div>
         )}

@@ -2,20 +2,20 @@
 
 import { useState } from "react"
 import { Slider } from "@/components/ui/slider"
-import { formatPopulation } from "@/utils/county-utils"
 
-interface PopulationRangeSliderProps {
-  minPopulation: number
-  maxPopulation: number
+interface RangeSliderProps {
+  min: number
+  max: number
   onRangeChange: (range: [number, number]) => void
+  title?: string
 }
 
 /**
  * Interactive slider component for filtering counties by population range
  * Displays current range values and provides smooth interaction
  */
-export function PopulationRangeSlider({ minPopulation, maxPopulation, onRangeChange }: PopulationRangeSliderProps) {
-  const [range, setRange] = useState<[number, number]>([minPopulation, maxPopulation])
+export function RangeSlider({ min, max, onRangeChange, title }: RangeSliderProps) {
+  const [range, setRange] = useState<[number, number]>([min, max])
 
   const handleRangeChange = (values: number[]) => {
     const newRange: [number, number] = [values[0], values[1]]
@@ -26,10 +26,10 @@ export function PopulationRangeSlider({ minPopulation, maxPopulation, onRangeCha
   return (
     <div className="space-y-4">
       <div className="flex items-center justify-between">
-        <h4 className="text-sm font-medium text-gray-700">Population Range Filter</h4>
+        <h4 className="text-sm font-medium text-gray-700">{title}</h4>
         <button
           onClick={() => {
-            const fullRange: [number, number] = [minPopulation, maxPopulation]
+            const fullRange: [number, number] = [min, max]
             setRange(fullRange)
             onRangeChange(fullRange)
           }}
@@ -39,35 +39,36 @@ export function PopulationRangeSlider({ minPopulation, maxPopulation, onRangeCha
         </button>
       </div>
 
-      {/* Range values display */}
-      <div className="flex items-center justify-between text-sm">
-        <div className="flex items-center space-x-2">
-          <span className="text-gray-600">Min:</span>
-          <span className="font-semibold text-blue-600 min-w-[80px]">{formatPopulation(range[0])}</span>
-        </div>
-        <div className="flex items-center space-x-2">
-          <span className="text-gray-600">Max:</span>
-          <span className="font-semibold text-blue-600 min-w-[80px]">{formatPopulation(range[1])}</span>
-        </div>
-      </div>
-
       {/* Slider component */}
-      <div className="px-2 box-border">
-        <Slider
-          value={range}
-          onValueChange={handleRangeChange}
-          min={minPopulation}
-          max={maxPopulation}
-          step={10000}
-          className="w-full"
-        />
-      </div>
+      <div className="flex items-center space-x-4 px-2 ">
+          <div className="w-24">
+            <input
+                type="text"
+                value={String(range[0])}
+                onChange={(e) => handleRangeChange([Number(e.target.value), range[1]])}
+                placeholder="e.g., 100000"
+                className={`w-full px-3 py-2 text-sm border rounded-md transition-colors focus:outline-none focus:ring-2`}
+            />
+        </div>
 
-      {/* Range indicators */}
-      <div className="flex justify-between text-xs text-gray-500">
-        <span>{formatPopulation(minPopulation)}</span>
-        <span>{formatPopulation(maxPopulation)}</span>
+        <div className="w-full space-y-2">
+            <Slider
+                value={range}
+                onValueChange={handleRangeChange}
+                min={min}
+                max={max}
+                step={10000}
+                className="w-full"
+            />
+            {/* Range indicators */}
+            <div className="flex justify-between text-xs text-gray-500">
+                <span>{min}</span>
+                <span>{max}</span>
+            </div>
       </div>
+    </div>
+
+
     </div>
   )
 }
