@@ -28,3 +28,5 @@ Workflow:
 3. Visualization
     * interactive map that is shaded by health risk score
     * different population vulnerability layers
+    * Used next.js to display mock california data 
+    * ![image](https://github.com/birlaaishwarya11/healthinclimate/blob/frankxu_changes/deliverables/Dashboard%20Visual%202.jpeg)
