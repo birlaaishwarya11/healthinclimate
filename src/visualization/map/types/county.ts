@@ -7,6 +7,7 @@ export interface County {
     type: 'Polygon' | 'MultiPolygon'
     coordinates: number[][][] | number[][][][]
   }
+  info?: string
 }
 
 export type PopulationCategory = "mega" | "large" | "medium" | "small" | "tiny"
